@@ -11,4 +11,4 @@ In the **Supervised Learning** file I train the best model from all the previous
 
 Its colab notebook you dont need to run, it already shown the output.
 
-One model is **Tfidf** model o transform the text into vector and the other is ***RandomForest*** Model with best accuracy.
+One model is **Tfidf** model to transform the text into vector and the other is ***RandomForest*** Model with best accuracy.
