@@ -1,4 +1,4 @@
-# Twitter-US-Airlines-Sentiment-Anlysis
+# Twitter-US-Airlines-Sentiment-Analysis
 
 In this I compare three supervised learning algorithms on the Twitter US Airline Dataset from kaggle: https://www.kaggle.com/crowdflower/twitter-airline-sentiment
 - Naive Bayes
